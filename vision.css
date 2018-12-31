@@ -1,0 +1,1847 @@
+@media screen and (max-width:1400px)
+{
+	.container
+	{	
+	height: auto;
+	}
+	.container .menu 
+	{	
+		position: relative;
+	width: 100%;
+	}
+	.container .menu .menu-top img
+	{
+		width: 40px;
+		height: 20px;
+		margin-right: 5px;
+	}
+	.container .menu .menu-top .Mya
+	{	color: black;
+		font-size: 13px;
+	}
+	.container .menu .menu-top a
+	{
+	color: #ffff;
+	font-size: 13px;
+	}
+	.container .menu .menu-top  li
+	{
+	font-size: 13px;
+	color: #ffff;
+	}
+	.container .menu .menu-bottom .myLOGO
+	{
+	font-weight: bold;
+	color: yellow;
+	}
+	.container .menu .menu-bottom a
+	{
+	color: black;
+	}
+	.container  .page-vision
+	{	position: relative;
+	width: 100%;
+	height: 370px;
+	background: blue;
+	}
+	.container  .page-vision .BoxAnh
+	{	
+	width: 100%;
+	height: 100%;
+	}
+	.container  .page-vision .BoxAnh img
+	{
+		width: 100%;
+	height: 100%;
+	opacity: 0.8;
+	}
+	.container  .page-vision .row 
+	{
+	position: absolute;
+	top: 40px;
+	left: 3%;
+	}
+	.container  .page-vision .row .h1
+	{
+	font-size: 60px;
+	font-weight: bold;
+		}
+	.container  .page-vision .row p
+	{
+		color: white;
+	}
+	.container  .page-vision .btn
+	{
+		position: absolute;
+		top: 80%; 
+		left: 3%;
+		height: 45px;
+	}
+	.container .page-luachon
+	{	position: relative;
+		width: 100%;
+		height: 350px;
+	}
+	.container .page-luachon  .item
+	{	float: left;
+		width: 31%;
+		height: 100%;
+		margin-left: 1.3%;
+		margin-right: 1%;
+	}
+	.container .page-luachon  .item .card
+	{	margin-top: 6%;
+		width: 100%;
+		height: 94%;
+		border-radius: 0%;
+		overflow: hidden;
+	}
+	.container .page-luachon  .item .card .card-title 
+	{
+		padding-top: -2%;
+	}
+	.container .page-luachon  .item .card img
+	{
+		height: 50%;
+	}
+	.container .page-luachon  .item .card img:hover
+	{
+		transition: 2s;
+		transform: scale(1.2);
+	}
+	.container .page-luachon  .item .card .card-body  .card-text
+	{
+		font-size: 15px;
+	}
+	.container .page-luachon  .item .card a
+	{	float: left;
+		color: yellow;
+		font-weight: bold;
+	}
+	.container .page-managing
+	{	position: relative;
+		width: 100%;
+		height: 370px;
+		background: blue;
+	}
+	.container .page-managing .BoxAnh
+	{
+		height: 100%;
+		width: 100%;
+	}
+	.container .page-managing .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-managing .row
+	{	
+		position: absolute;
+		top: 20%;
+		left: 2%;
+	}
+	.container .page-icon
+	{	position: relative;
+		width: 100%;
+		height: 300px;
+	}
+	.container .page-icon .row
+	{	top: 0%;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .item
+	{
+		height: 100%;
+	}
+	.container .page-icon .row .fas
+	{	position: absolute;
+		top:70px;
+		left:87px;
+		font-size: 90px;
+	}
+	.container .page-icon .row p
+	{
+	 	padding-top: 170px;
+	 	font-family: arial;
+	}
+	.container .page-icon .row  .myicon
+	{
+		opacity: 0.8;
+	}
+	.container  .page-thebest
+	{	position: relative;
+		
+		width: 100%;
+		height: 370px;
+	}
+	.container  .page-thebest .row
+	{	position: absolute;
+		top: 0px;
+		left: 15px;
+		width: 100%;
+		height: 100%;
+	}
+	.container  .page-thebest .row .text 
+	{
+		margin-left: 2%;
+	}
+	.container  .page-thebest .row .text .h2
+	{
+		margin-top: 40px;
+	}
+	.container  .page-thebest .row .text ul
+	{	margin-left: -3%;
+		display: block;
+	}
+	.container  .page-thebest .row .text ul li
+	{
+		list-style-type:isolation;
+	}
+	.container  .page-thebest .row .BoxAnh
+	{	
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-step
+	{	position: relative;
+		background: black;
+		width: 100%;
+		height: 370px;
+	}
+	.container .page-step .BoxAnh
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-step .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+		opacity: 0.2;
+	}
+	.container .page-step .row
+	{
+		position: absolute;
+		top: 0%;
+		left: 1.4%;
+		width: 100%;
+		height: 33%;
+	}
+	.container .page-step .myrow
+	{	position: absolute;
+		top: 45%;
+		height:40%;
+	}
+	.container .page-step .myrow .item
+	{
+		margin: 0 auto;
+		width: 115px;
+		height: 115px;
+		border-radius: 50%;
+		background: none;
+		border:7px solid white;
+		margin-top: 15px;
+	}
+	.container .page-step .myrow .item .h3
+	{
+		margin-top: 27px;
+	}
+	.container .page-business
+	{	position: relative;
+		width: 100%;
+		height: 370px;
+	}
+	.container .page-business .row
+	{	position: absolute;
+		left: 1.4%;
+		top: 0%;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-business .row .item
+	{	position: absolute;
+		left: 0%;
+		width: 100%;
+		height: 100%;
+		padding-left: 5%;
+	}
+	.container .page-business .row .item img
+	{	
+		width: 100%;
+		height: 100%;
+	}
+	.container  .blockquote-footer
+	{
+		background: black;
+		width: 100%;
+		height: 60px;
+	}
+}
+@media screen and (max-width:1180px)
+{
+	.container
+	{	
+	height: auto;
+	}
+	.container .menu 
+	{	
+		position: relative;
+	width: 100%;
+	}
+	.container .menu .menu-top img
+	{
+		width: 40px;
+		height: 20px;
+		margin-right: 5px;
+	}
+	.container .menu .menu-top .Mya
+	{	color: black;
+		font-size: 13px;
+	}
+	.container .menu .menu-top a
+	{
+	color: #ffff;
+	font-size: 13px;
+	}
+	.container .menu .menu-top  li
+	{
+	font-size: 13px;
+	color: #ffff;
+	}
+	.container .menu .menu-bottom .myLOGO
+	{
+	font-weight: bold;
+	color: yellow;
+	}
+	.container .menu .menu-bottom a
+	{
+	color: black;
+	}
+	.container  .page-vision
+	{	position: relative;
+	width: 100%;
+	height: 370px;
+	background: blue;
+	}
+	.container  .page-vision .BoxAnh
+	{	
+	width: 100%;
+	height: 100%;
+	}
+	.container  .page-vision .BoxAnh img
+	{
+		width: 100%;
+	height: 100%;
+	opacity: 0.8;
+	}
+	.container  .page-vision .row 
+	{
+	position: absolute;
+	top: 40px;
+	left: 3%;
+	}
+	.container  .page-vision .row .h1
+	{
+	font-size: 60px;
+	font-weight: bold;
+		}
+	.container  .page-vision .row p
+	{
+		color: white;
+	}
+	.container  .page-vision .btn
+	{
+		position: absolute;
+		top: 80%; 
+		left: 3%;
+		height: 45px;
+	}
+	.container .page-luachon
+	{	position: relative;
+		width: 100%;
+		height: 350px;
+	}
+	.container .page-luachon  .item
+	{	float: left;
+		width: 31%;
+		height: 100%;
+		margin-left: 1.3%;
+		margin-right: 1%;
+	}
+	.container .page-luachon  .item .card
+	{	margin-top: 6%;
+		width: 100%;
+		height: 94%;
+		border-radius: 0%;
+		overflow: hidden;
+	}
+	.container .page-luachon  .item .card .card-title 
+	{
+		padding-top: -2%;
+	}
+	.container .page-luachon  .item .card img
+	{
+		height: 50%;
+	}
+	.container .page-luachon  .item .card img:hover
+	{
+		transition: 2s;
+		transform: scale(1.2);
+	}
+	.container .page-luachon  .item .card .card-body  .card-text
+	{
+		font-size: 15px;
+	}
+	.container .page-luachon  .item .card a
+	{	
+		float: left;
+		color: yellow;
+		font-weight: bold;
+	}
+	.container .page-managing
+	{	position: relative;
+		width: 100%;
+		height: 370px;
+		background: blue;
+	}
+	.container .page-managing .BoxAnh
+	{
+		height: 100%;
+		width: 100%;
+	}
+	.container .page-managing .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-managing .row
+	{	
+		position: absolute;
+		top: 20%;
+		left: 2%;
+	}
+	.container .page-managing .row  a
+	{
+		position: absolute;
+		top: 80%;	
+	}
+	.container .page-icon
+	{	position: relative;
+		width: 100%;
+		height: 300px;
+	}
+	.container .page-icon .row
+	{	top: 0%;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .item
+	{
+		height: 100%;
+	}
+	.container .page-icon .row .fas
+	{	position: absolute;
+		top:70px;
+		left:87px;
+		font-size: 90px;
+	}
+	.container .page-icon .row p
+	{
+	 	padding-top: 170px;
+	 	font-family: arial;
+	}
+	.container .page-icon .row  .myicon
+	{
+		opacity: 0.8;
+	}
+	.container  .page-thebest
+	{	position: relative;
+		
+		width: 100%;
+		height: 370px;
+	}
+	.container  .page-thebest .row
+	{	position: absolute;
+		top: 0px;
+		left: 15px;
+		width: 100%;
+		height: 100%;
+	}
+	.container  .page-thebest .row .text 
+	{
+		margin-left: 2%;
+	}
+	.container  .page-thebest .row .text .h2
+	{
+		margin-top: 40px;
+	}
+	.container  .page-thebest .row .text ul
+	{	margin-left: -3%;
+		display: block;
+	}
+	.container  .page-thebest .row .text ul li
+	{
+		list-style-type:isolation;
+	}
+	.container  .page-thebest .row .BoxAnh
+	{	
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-step
+	{	position: relative;
+		background: black;
+		width: 100%;
+		height: 370px;
+	}
+	.container .page-step .BoxAnh
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-step .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+		opacity: 0.2;
+	}
+	.container .page-step .row
+	{
+		position: absolute;
+		top: 0%;
+		left: 1.4%;
+		width: 100%;
+		height: 33%;
+	}
+	.container .page-step .myrow
+	{	position: absolute;
+		top: 45%;
+		height:40%;
+	}
+	.container .page-step .myrow .item
+	{
+		margin: 0 auto;
+		width: 115px;
+		height: 115px;
+		border-radius: 50%;
+		background: none;
+		border:7px solid white;
+		margin-top: 15px;
+	}
+	.container .page-step .myrow .item .h3
+	{
+		margin-top: 27px;
+	}
+	.container .page-business
+	{	position: relative;
+		width: 100%;
+		height: 370px;
+	}
+	.container .page-business .row
+	{	position: absolute;
+		left: 1.4%;
+		top: 0%;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-business .row .item
+	{	position: absolute;
+		left: 0%;
+		width: 100%;
+		height: 100%;
+		padding-left: 5%;
+	}
+	.container .page-business .row .item img
+	{	
+		width: 100%;
+		height: 100%;
+	}
+	.container  .blockquote-footer
+	{
+		background: black;
+		width: 100%;
+		height: 60px;
+	}
+}
+@media screen and (max-width:998px)
+{
+	.container
+	{	
+	height: auto;
+	}
+	.container .menu 
+	{	
+		position: relative;
+	width: 100%;
+	}
+	.container .menu .menu-top img
+	{
+		width: 40px;
+		height: 20px;
+		margin-right: 5px;
+	}
+	.container .menu .menu-top .Mya
+	{	color: black;
+		font-size: 13px;
+	}
+	.container .menu .menu-top a
+	{
+	color: #ffff;
+	font-size: 13px;
+	}
+	.container .menu .menu-top  li
+	{
+	font-size: 13px;
+	color: #ffff;
+	}
+	.container .menu .menu-bottom .myLOGO
+	{
+	font-weight: bold;
+	color: yellow;
+	}
+	.container .menu .menu-bottom a
+	{
+	color: black;
+	}
+	.container  .page-vision
+	{	position: relative;
+	width: 100%;
+	height: 300px;
+	background: blue;
+	}
+	.container  .page-vision .BoxAnh
+	{	
+	width: 100%;
+	height: 100%;
+	}
+	.container  .page-vision .BoxAnh img
+	{
+	width: 100%;
+	height: 100%;
+	opacity: 0.8;
+	}
+	.container  .page-vision .row 
+	{
+		position: absolute;
+		top: 40px;
+		left: 3%;
+	}
+	.container  .page-vision .row .h1
+	{
+		font-size: 40px;
+		font-weight: bold;
+	}
+	.container  .page-vision .row p
+	{
+		color: white;
+	}
+	.container  .page-vision .btn
+	{
+		position: absolute;
+		top: 80%; 
+		left: 3%;
+		height: 45px;
+	}
+	.container .page-luachon
+	{	position: relative;
+		width: 100%;
+		height: 270px;
+	}
+	.container .page-luachon  .item
+	{	float: left;
+		width: 31%;
+		height: 100%;
+		margin-left: 1.3%;
+		margin-right: 1%;
+	}
+	.container .page-luachon  .item .card
+	{	margin-top: 6%;
+		width: 100%;
+		height: 90%;
+		border-radius: 0%;
+		overflow: hidden;
+	}
+	.container .page-luachon  .item .card p
+	{
+		margin-top: -10%;
+		font-size: 12px;
+	}
+	.container .page-luachon  .item .card img
+	{
+		height: 50%;
+	}
+	.container .page-luachon  .item .card img:hover
+	{
+		transition: 2s;
+		transform: scale(1.2);
+	}
+	.container .page-luachon  .item .card .card-body  .card-text
+	{	margin-top: -10px;
+		font-size: 10px;
+	}
+	.container .page-luachon  .item .card a
+	{	font-size: 12px;
+		float: left;
+		color: yellow;
+		font-weight: bold;
+	}
+	.container .page-managing
+	{	position: relative;
+		width: 100%;
+		height: 300px;
+		background: blue;
+	}
+	.container .page-managing .BoxAnh
+	{
+		height: 100%;
+		width: 100%;
+	}
+	.container .page-managing .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-managing .row
+	{	
+		position: absolute;
+		top: 10%;
+		left: 2%;
+	}
+	.container .page-managing .row .text .h1
+	{
+		font-size: 30px;
+	}
+	.container .page-managing .row .text p
+	{
+		font-size: 15px;
+	}
+	.container .page-managing .row  a
+	{
+		position: absolute;
+		top: 80%;	
+	}
+	.container .page-icon
+	{	position: relative;
+		width: 100%;
+		height: 270px;
+	}
+	.container .page-icon .row
+	{	top: 0%;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .item
+	{
+		height: 100%;
+	}
+	.container .page-icon .row .fas
+	{	position: absolute;
+		top:70px;
+		left:50px;
+		font-size: 70px;
+	}
+	.container .page-icon .row p
+	{	font-size: 13px;
+	 	padding-top: 170px;
+	 	font-family: arial;
+	}
+	.container .page-icon .row  .myicon
+	{
+		opacity: 0.8;
+	}
+	.container  .page-thebest
+	{	position: relative;
+		
+		width: 100%;
+		height: 300px;
+	}
+	.container  .page-thebest .row
+	{	position: absolute;
+		top: -20px;
+		left: 15px;
+		width: 100%;
+		height: 100%;
+	}
+	.container  .page-thebest .row .text .myP
+	{
+		margin-left: 2%;
+		font-size: 12px;
+	}
+	.container  .page-thebest .row .text ul
+	{	margin-left: -3%;
+		display: block;
+		font-size: 12px;
+	}
+	.container  .page-thebest .row .text ul li
+	{
+		list-style-type:isolation;
+	}
+	.container  .page-thebest .row .BoxAnh
+	{	
+		width: 90%;
+		height: 90%;
+	}
+	.container .page-step
+	{	position: relative;
+		background: black;
+		width: 100%;
+		height: 300px;
+	}
+	.container .page-step .BoxAnh
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-step .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+		opacity: 0.2;
+	}
+	.container .page-step .row
+	{
+		position: absolute;
+		top: 0%;
+		left: 1.4%;
+		width: 100%;
+		height: 33%;
+	}
+	.container .page-step .row .text .h2
+	{
+			font-size: 15px;
+	}
+	.container .page-step .row .text p
+	{
+		font-size: 12px;
+	}
+	.container .page-step .myrow
+	{	position: absolute;
+		top: 45%;
+		height:40%;
+	}
+	.container .page-step .myrow .item
+	{
+		margin: 0 auto;
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+		background: none;
+		border:7px solid white;
+		margin-top: 15px;
+
+	}
+	.container .page-step .myrow .item .h3
+	{
+		margin-top: 27px;
+	}
+	.container .page-business
+	{	position: relative;
+		width: 100%;
+		height: 330px;
+	}
+	.container .page-business .row
+	{	position: absolute;
+		left: 1.4%;
+		top: 0%;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-business .row .item
+	{	position: absolute;
+		left: 0%;
+		width: 100%;
+		height: 100%;
+		padding-left: 5%;
+	}
+	.container .page-business .row .item img
+	{	
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-business .row .h2
+	{	
+		margin-top: -5px;
+		font-size: 18px;
+	}
+	.container .page-business .row p
+	{
+		font-size: 13px;
+	}
+	.container .page-business .row a
+	{
+		font-size: 13px;
+	}
+	.container  .blockquote-footer
+	{
+		background: black;
+		width: 100%;
+		height: 60px;
+	}
+}
+@media screen and (max-width:767px)
+{
+	.container
+	{	
+	height: auto;
+	}
+	.container .menu 
+	{	
+	position: relative;
+	width: 100%;
+	}
+	.container .menu .menu-top
+	{	
+		opacity: 0;
+	}
+	.container .menu .menu-bottom 
+	{
+		margin-top: -5%;
+	}
+	.container .menu .menu-bottom .myLOGO
+	{
+	font-weight: bold;
+	color: yellow;
+	}
+	.container .menu .menu-bottom a
+	{
+	color: black;
+	}
+	.container  .page-vision
+	{	position: relative;
+	width: 100%;
+	height: 280px;
+	background: blue;
+	}
+	.container  .page-vision .BoxAnh
+	{	
+	width: 100%;
+	height: 100%;
+	}
+	.container  .page-vision .BoxAnh img
+	{
+	width: 100%;
+	height: 100%;
+	opacity: 0.8;
+	}
+	.container  .page-vision .row 
+	{
+		position: absolute;
+		top: 20px;
+		left: 3%;
+	}
+	.container  .page-vision .row .h1
+	{	text-align: center;
+		font-size: 30px;
+		font-weight: bold;
+	}
+	.container  .page-vision .row p
+	{	margin-top: 20px;
+		text-align: center;
+		font-size: 15px;
+		color: white;
+	}
+	.container  .page-vision .btn
+	{
+		position: absolute;
+		top: 60%; 
+		left: 35%;
+		height: 45px;
+	}
+	.container .page-luachon
+	{	position: relative;
+		width: 100%;
+		height: 270px;
+	}
+	.container .page-luachon  .item
+	{	float: left;
+		width: 100%;
+		height: 30%;
+		margin-left: 1.3%;
+		margin-right: 1%;
+	}
+	.container .page-luachon  .item .card
+	{	margin-top: 2%;
+		width: 100%;
+		height: 90%;
+		border-radius: 0%;
+		overflow: hidden;
+	}
+	.container .page-luachon  .item .card p
+	{	text-align: center;
+		margin-top: -15%;
+		font-size: 12px;
+	}
+
+	.container .page-luachon  .item .card img
+	{	width: 20%;
+		height: 100%;
+	}
+	.container .page-luachon  .item .card img:hover
+	{
+		transition: 2s;
+		transform: scale(1.2);
+	}
+	.container .page-luachon  .item .card .card-body  .card-text
+	{	margin-top: -20px;
+		font-size: 10px;
+				opacity: 0;
+	}
+
+	.container .page-luachon  .item .card a
+	{	font-size: 12px;
+		float: left;
+		color: yellow;
+		font-weight: bold;
+	}
+	.container .page-managing
+	{	position: relative;
+		width: 100%;
+		height: 300px;
+		background: blue;
+	}
+	.container .page-managing .BoxAnh
+	{
+		height: 100%;
+		width: 100%;
+	}
+	.container .page-managing .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-managing .row
+	{	
+		position: absolute;
+		top: 10%;
+		left: 2%;
+	}
+	.container .page-managing .row .text .h1
+	{	
+		font-size: 25px;
+	}
+	.container .page-managing .row .text p
+	{
+		font-size: 13px;
+	}
+	.container .page-managing .row  a
+	{
+		position: absolute;
+		top: 80%;	
+	}
+	.container .page-icon
+	{	position: relative;
+		float: left;
+		width: 100%;
+		height: 280px;
+	}
+	.container .page-icon .row
+	{	top: 0%;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .item
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .fas
+	{	position: absolute;
+		top:70px;
+		left:90px;
+		font-size: 70px;
+	}
+	.container .page-icon .row p
+	{	font-size: 13px;
+	 	padding-top: 170px;
+	 	font-family: arial;
+	}
+	.container .page-icon .row  .myicon
+	{
+		opacity: 0.8;
+	}
+	.container  .page-thebest
+	{	position: relative;
+		margin-top: 25%;
+		float: left;
+		width: 100%;
+		height: 300px;
+	}
+	.container  .page-thebest .row
+	{	position: absolute;
+		top: -20px;
+		left: 15px;
+		width: 100%;
+		height: 100%;
+	}
+	.container  .page-thebest .row .text .myP
+	{	margin-top: -5%;
+		margin-left: 2%;
+		font-size: 12px;
+	}
+	.container  .page-thebest .row .text ul
+	{	margin-left: -3%;
+		display: block;
+		font-size: 12px;
+	}
+	.container  .page-thebest .row .text ul li
+	{
+		list-style-type:isolation;
+	}
+	.container  .page-thebest .row .BoxAnh
+	{	margin-top: -3%;
+		width: 50%;
+		height: 60%;
+	}
+	.container .page-step
+	{	position: relative;
+		margin-top: 10%;
+		background: black;
+		width: 100%;
+		height: 300px;
+		float: left;
+	}
+	.container .page-step .BoxAnh
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-step .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+		opacity: 0.2;
+	}
+	.container .page-step .row
+	{
+		position: absolute;
+		top: 0%;
+	
+		width: 100%;
+		
+		height: 33%;
+	}
+	.container .page-step .row .text .h2
+	{	
+			font-size: 15px;
+	}
+	.container .page-step .row .text p
+	{	
+		font-size: 12px;
+	}
+	.container .page-step .myrow
+	{	position: absolute;
+		top: 45%;
+		height:40%;
+
+	}
+	.container .page-step .myrow .item
+	{
+		margin: 0 auto;
+
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+		background: none;
+		border:3px solid white;
+		margin-top: 15px;
+
+	}
+	.container .page-step .myrow .item .h3
+	{
+		margin-top: 8%;
+	}
+	.container .page-business
+	{	position: relative;
+		width: 100%;
+		height: 330px;
+		float: left;	
+	}
+	.container .page-business .row
+	{	position: absolute;
+		
+		top: 0%;
+		width: 100%;
+		height: 100%;
+
+	}
+	.container .page-business .row .item
+	{	position: absolute;
+		left: 0%;
+		width: 100%;
+		height: 100%;
+		padding-left: 5%;
+	}
+	.container .page-business .row .item img
+	{	
+		width: 100%;
+		height: 110%;
+	}
+	.container .page-business .row .h2
+	{	
+		margin-top: -40px;
+		font-size: 15px;
+	}
+	.container .page-business .row p
+	{
+		font-size: 11px;
+	}
+	.container .page-business .row a
+	{	margin-top: -1%;
+		font-size: 12px;
+		border-radius: 0%;
+	}
+	.container  .blockquote-footer
+	{	float: left;
+		background: black;
+		width: 100%;
+		height: 60px;
+	}
+}
+@media screen and (max-width:460px)
+{
+	.container
+	{	
+	height: auto;
+	}
+	.container .menu 
+	{	
+	position: relative;
+	width: 100%;
+	}
+	.container .menu .menu-top
+	{	
+		opacity: 0;
+	}
+	.container .menu .menu-bottom 
+	{
+		margin-top: -5%;
+	}
+	.container .menu .menu-bottom .myLOGO
+	{
+	font-weight: bold;
+	color: yellow;
+	}
+	.container .menu .menu-bottom a
+	{
+	color: black;
+	}
+	.container  .page-vision
+	{	position: relative;
+	width: 100%;
+	height: 280px;
+	background: blue;
+	}
+	.container  .page-vision .BoxAnh
+	{	
+	width: 100%;
+	height: 100%;
+	}
+	.container  .page-vision .BoxAnh img
+	{
+	width: 100%;
+	height: 100%;
+	opacity: 0.8;
+	}
+	.container  .page-vision .row 
+	{
+		position: absolute;
+		top: 20px;
+		left: 3%;
+	}
+	.container  .page-vision .row .h1
+	{	text-align: center;
+		font-size: 30px;
+		font-weight: bold;
+	}
+	.container  .page-vision .row p
+	{	margin-top: 20px;
+		text-align: center;
+		font-size: 15px;
+		color: white;
+	}
+	.container  .page-vision .btn
+	{
+		position: absolute;
+		top: 80%; 
+		left: 35%;
+		height: 45px;
+	}
+	.container .page-luachon
+	{	position: relative;
+		width: 100%;
+		height: 270px;
+	}
+	.container .page-luachon  .item
+	{	float: left;
+		width: 100%;
+		height: 30%;
+		margin-left: 1.3%;
+		margin-right: 1%;
+	}
+	.container .page-luachon  .item .card
+	{	margin-top: 2%;
+		width: 100%;
+		height: 90%;
+		border-radius: 0%;
+		overflow: hidden;
+	}
+	.container .page-luachon  .item .card p
+	{	text-align: center;
+		margin-top: -15%;
+		font-size: 12px;
+	}
+
+	.container .page-luachon  .item .card img
+	{	width: 20%;
+		height: 100%;
+	}
+	.container .page-luachon  .item .card img:hover
+	{
+		transition: 2s;
+		transform: scale(1.2);
+	}
+	.container .page-luachon  .item .card .card-body  .card-text
+	{	margin-top: -20px;
+		font-size: 10px;
+				opacity: 0;
+	}
+
+	.container .page-luachon  .item .card a
+	{	font-size: 12px;
+		float: left;
+		color: yellow;
+		font-weight: bold;
+	}
+	.container .page-managing
+	{	position: relative;
+		width: 100%;
+		height: 300px;
+		background: blue;
+	}
+	.container .page-managing .BoxAnh
+	{
+		height: 100%;
+		width: 100%;
+	}
+	.container .page-managing .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-managing .row
+	{	
+		position: absolute;
+		top: 10%;
+		left: 2%;
+	}
+	.container .page-managing .row .text .h1
+	{	
+		font-size: 25px;
+	}
+	.container .page-managing .row .text p
+	{
+		font-size: 13px;
+	}
+	.container .page-managing .row  a
+	{
+		position: absolute;
+		top: 80%;	
+	}
+	.container .page-icon
+	{	position: relative;
+		float: left;
+		width: 100%;
+		height: 280px;
+	}
+	.container .page-icon .row
+	{	top: 0%;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .item
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .fas
+	{	position: absolute;
+		top:70px;
+		left: 63px;
+		font-size: 70px;
+	}
+	.container .page-icon .row p
+	{	font-size: 13px;
+	 	padding-top: 170px;
+	 	font-family: arial;
+	}
+	.container .page-icon .row  .myicon
+	{
+		opacity: 0.8;
+	}
+	.container  .page-thebest
+	{	position: relative;
+		margin-top: 30%;
+		float: left;
+		width: 100%;
+		height: 300px;
+	}
+	.container  .page-thebest .row
+	{	position: absolute;
+		top: -20px;
+		left: 15px;
+		width: 100%;
+		height: 100%;
+	}
+	.container  .page-thebest .row .text .myP
+	{	margin-top: -5%;
+		margin-left: 2%;
+		font-size: 12px;
+	}
+	.container  .page-thebest .row .text ul
+	{	margin-left: -3%;
+		display: block;
+		font-size: 12px;
+	}
+	.container  .page-thebest .row .text ul li
+	{
+		list-style-type:isolation;
+	}
+	.container  .page-thebest .row .BoxAnh
+	{	margin-top: -3%;
+		width: 50%;
+		height: 60%;
+	}
+	.container .page-step
+	{	position: relative;
+		margin-top: 15%;
+		background: black;
+		width: 100%;
+		height: 300px;
+		float: left;
+	}
+	.container .page-step .BoxAnh
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-step .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+		opacity: 0.2;
+	}
+	.container .page-step .row
+	{
+		position: absolute;
+		top: 0%;
+	
+		width: 100%;
+		
+		height: 33%;
+	}
+	.container .page-step .row .text .h2
+	{	
+			font-size: 15px;
+	}
+	.container .page-step .row .text p
+	{	
+		font-size: 12px;
+	}
+	.container .page-step .myrow
+	{	position: absolute;
+		top: 45%;
+		height:40%;
+
+	}
+	.container .page-step .myrow .item
+	{
+		margin: 0 auto;
+
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+		background: none;
+		border:3px solid white;
+		margin-top: 15px;
+
+	}
+	.container .page-step .myrow .item .h3
+	{
+		margin-top: 8%;
+	}
+	.container .page-business
+	{	position: relative;
+		width: 100%;
+		height: 330px;
+		float: left;	
+	}
+	.container .page-business .row
+	{	position: absolute;
+		
+		top: 0%;
+		width: 100%;
+		height: 100%;
+
+	}
+	.container .page-business .row .item
+	{	position: absolute;
+		left: 0%;
+		width: 100%;
+		height: 100%;
+		padding-left: 5%;
+	}
+	.container .page-business .row .item img
+	{	
+		width: 100%;
+		height: 110%;
+	}
+	.container .page-business .row .h2
+	{	
+		margin-top: -40px;
+		font-size: 15px;
+	}
+	.container .page-business .row p
+	{
+		font-size: 11px;
+	}
+	.container .page-business .row a
+	{	margin-top: -1%;
+		font-size: 12px;
+		border-radius: 0%;
+	}
+	.container  .blockquote-footer
+	{	float: left;
+		background: black;
+		width: 100%;
+		height: 60px;
+	}
+}
+@media screen and (max-width:430px)
+{
+	.container
+	{	
+	height: auto;
+	}
+	.container .menu 
+	{	
+	position: relative;
+	width: 100%;
+	}
+	.container .menu .menu-top
+	{	
+		opacity: 0;
+	}
+	.container .menu .menu-bottom 
+	{
+		margin-top: -5%;
+	}
+	.container .menu .menu-bottom .myLOGO
+	{
+	font-weight: bold;
+	color: yellow;
+	}
+	.container .menu .menu-bottom a
+	{
+	color: black;
+	}
+	.container  .page-vision
+	{	position: relative;
+	width: 100%;
+	height: 280px;
+	background: blue;
+	}
+	.container  .page-vision .BoxAnh
+	{	
+	width: 100%;
+	height: 100%;
+	}
+	.container  .page-vision .BoxAnh img
+	{
+	width: 100%;
+	height: 100%;
+	opacity: 0.8;
+	}
+	.container  .page-vision .row 
+	{
+		position: absolute;
+		top: 20px;
+		left: 3%;
+	}
+	.container  .page-vision .row .h1
+	{	text-align: center;
+		font-size: 30px;
+		font-weight: bold;
+	}
+	.container  .page-vision .row p
+	{	margin-top: 20px;
+		text-align: center;
+		font-size: 15px;
+		color: white;
+	}
+	.container  .page-vision .btn
+	{
+		position: absolute;
+		top: 80%; 
+		left: 35%;
+		height: 45px;
+	}
+	.container .page-luachon
+	{	position: relative;
+		width: 100%;
+		height: 270px;
+	}
+	.container .page-luachon  .item
+	{	float: left;
+		width: 100%;
+		height: 30%;
+		margin-left: 1.3%;
+		margin-right: 1%;
+	}
+	.container .page-luachon  .item .card
+	{	margin-top: 2%;
+		width: 100%;
+		height: 90%;
+		border-radius: 0%;
+		overflow: hidden;
+	}
+	.container .page-luachon  .item .card p
+	{	text-align: center;
+		margin-top: -15%;
+		font-size: 12px;
+	}
+
+	.container .page-luachon  .item .card img
+	{	width: 20%;
+		height: 100%;
+	}
+	.container .page-luachon  .item .card img:hover
+	{
+		transition: 2s;
+		transform: scale(1.2);
+	}
+	.container .page-luachon  .item .card .card-body  .card-text
+	{	margin-top: -20px;
+		font-size: 10px;
+				opacity: 0;
+	}
+
+	.container .page-luachon  .item .card a
+	{	font-size: 12px;
+		float: left;
+		color: yellow;
+		font-weight: bold;
+	}
+	.container .page-managing
+	{	position: relative;
+		width: 100%;
+		height: 300px;
+		background: blue;
+	}
+	.container .page-managing .BoxAnh
+	{
+		height: 100%;
+		width: 100%;
+	}
+	.container .page-managing .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-managing .row
+	{	
+		position: absolute;
+		top: 10%;
+		left: 2%;
+	}
+	.container .page-managing .row .text .h1
+	{	
+		font-size: 25px;
+	}
+	.container .page-managing .row .text p
+	{
+		font-size: 13px;
+	}
+	.container .page-managing .row  a
+	{
+		position: absolute;
+		top: 80%;	
+	}
+	.container .page-icon
+	{	position: relative;
+		float: left;
+		width: 100%;
+		height: 280px;
+	}
+	.container .page-icon .row
+	{	top: 0%;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .item
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-icon .row .fas
+	{	position: absolute;
+		top:70px;
+		left: 63px;
+		font-size: 70px;
+	}
+	.container .page-icon .row p
+	{	font-size: 13px;
+	 	padding-top: 170px;
+	 	font-family: arial;
+	}
+	.container .page-icon .row  .myicon
+	{
+		opacity: 0.8;
+	}
+	.container  .page-thebest
+	{	position: relative;
+		margin-top: 35%;
+		float: left;
+		width: 100%;
+		height: 300px;
+	}
+	.container  .page-thebest .row
+	{	position: absolute;
+		top: -20px;
+		left: 15px;
+		width: 100%;
+		height: 100%;
+	}
+	.container  .page-thebest .row .text .myP
+	{	margin-top: -5%;
+		margin-left: 2%;
+		font-size: 12px;
+	}
+	.container  .page-thebest .row .text ul
+	{	margin-left: -3%;
+		display: block;
+		font-size: 12px;
+	}
+	.container  .page-thebest .row .text ul li
+	{
+		list-style-type:isolation;
+	}
+	.container  .page-thebest .row .BoxAnh
+	{	margin-top: -3%;
+		width: 50%;
+		height: 60%;
+	}
+	.container .page-step
+	{	position: relative;
+		margin-top: 15%;
+		background: black;
+		width: 100%;
+		height: 300px;
+		float: left;
+	}
+	.container .page-step .BoxAnh
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.container .page-step .BoxAnh img
+	{
+		width: 100%;
+		height: 100%;
+		opacity: 0.2;
+	}
+	.container .page-step .row
+	{
+		position: absolute;
+		top: 0%;
+	
+		width: 100%;
+		
+		height: 33%;
+	}
+	.container .page-step .row .text .h2
+	{	
+			font-size: 15px;
+	}
+	.container .page-step .row .text p
+	{	
+		font-size: 12px;
+	}
+	.container .page-step .myrow
+	{	position: absolute;
+		top: 45%;
+		height:40%;
+
+	}
+	.container .page-step .myrow .item
+	{
+		margin: 0 auto;
+
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+		background: none;
+		border:3px solid white;
+		margin-top: 15px;
+
+	}
+	.container .page-step .myrow .item .h3
+	{
+		margin-top: 8%;
+	}
+	.container .page-business
+	{	position: relative;
+		width: 100%;
+		height: 330px;
+		float: left;	
+	}
+	.container .page-business .row
+	{	position: absolute;
+		
+		top: 0%;
+		width: 100%;
+		height: 100%;
+
+	}
+	.container .page-business .row .item
+	{	position: absolute;
+		left: 0%;
+		width: 100%;
+		height: 100%;
+		padding-left: 5%;
+	}
+	.container .page-business .row .item img
+	{	
+		width: 100%;
+		height: 110%;
+	}
+	.container .page-business .row .h2
+	{	
+		margin-top: -40px;
+		font-size: 15px;
+	}
+	.container .page-business .row p
+	{
+		font-size: 11px;
+	}
+	.container .page-business .row a
+	{	margin-top: 5%;
+		font-size: 12px;
+		border-radius: 0%;
+		width: 120px;
+	}
+	.container  .blockquote-footer
+	{	float: left;
+		background: black;
+		margin-top: 10%;
+		width: 100%;
+		height: 60px;
+	}
+}
+
